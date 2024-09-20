@@ -1,1 +1,0 @@
-import{Ra as a,Sa as i,Xa as r,_a as s,ca as o}from"./chunk-D7GF3UPI.js";var c=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-stand-alone"]],standalone:!0,features:[s],decls:2,vars:0,template:function(n,d){n&1&&(a(0,"p"),r(1,"stand-alone works!"),i())}});let t=e;return t})();export{c as StandAloneComponent};
